@@ -1,6 +1,6 @@
 package lab9;
 
-public class Lab9Penguin extends Lab9Bird {
+public final class Lab9Penguin extends Lab9Bird {
 
 	public Lab9Penguin(String name) {
 		super(name);
